@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnan051
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently Working in WordPress
 - 💞️ I’m looking to collaborate on Wordpress
 - 📫 How to reach me: Email @m.adnan.riaz.051@gmail.com
 
