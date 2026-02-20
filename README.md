@@ -5,7 +5,7 @@
 🛠️ Currently building scalable WordPress & WooCommerce solutions  
 🤝 Open to collaborating on **WordPress, React, and E-Commerce** projects  
 📍 Based in **Lahore, Pakistan**  
-📧 Reach me at: [adnan.riaz.051@gmail.com](mailto:adnan.riaz.051@gmail.com)
+📧 Reach me at: [m.adnan.riaz.051@gmail.com](mailto:m.adnan.riaz.051@gmail.com)
 
 ---
 
